@@ -5,6 +5,10 @@ body {
 #wrapper {
 	margin-top: 8% !important;
 }
+ul
+{
+text-align: left;
+}
 .black-background {background-color:#000000;}
 .white {color:#ffffff;}
 #content {
