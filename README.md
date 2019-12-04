@@ -46,5 +46,5 @@ Browse to [localhost](http://127.0.0.1:8000) for the index page
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 
-## APP LINK
+## APP LINK (http://kushagra225.pythonanywhere.com/)
 [APP](http://kushagra225.pythonanywhere.com/)
